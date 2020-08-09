@@ -41,7 +41,7 @@ My name is Korak , love to be called Dani.
    Yet i keep learning everyday , and i am so happy about my progress.
 
 * ## **a Software-developing Internship**
-  I have a 3 years internship as a Software-developer. Which means i am currently an **Intern** also.
+  I have a 3 years internship as a Software-developer. Which means i am currently an **Intern**.
 ---------------------------------------------------------------------
 # **Skills**
   * Python
