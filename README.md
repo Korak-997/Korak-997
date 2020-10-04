@@ -18,15 +18,21 @@ Here are some ideas to get you started:
 
 ## Welcome to my Github Account . 
 
-My name is Korak , love to be called Dani. 
+My name is Korak , love to be called Dani.
+
+--------------------------------------------
+#### Working at [ComCard GmbH](https://www.comcard.de/)
+#### Stuying at [BSZ e.o.Plauen](http://www.bsz-eoplauen.de/3/aktuell/start_news.php)
+
 
 --------------------------------------------------------
-# How to Reach me ?
+### 📫 How to reach me:
 
-* ## Email :  korak.kurani.info@gmail.com
-* ## Discord : Danito#4660
-* ## [Twitter](https://twitter.com/Dani60579343)
-* ## [Reddit](https://www.reddit.com/user/dani-997)
+
+* #### [Twitter](https://twitter.com/Dani60579343)
+* #### [Instagram](https://www.instagram.com/danikorak997/?r=nametag)
+
+
 
 
  
