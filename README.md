@@ -24,6 +24,11 @@ My name is Korak , love to be called Dani.
 #### Working at [ComCard GmbH](https://www.comcard.de/)
 #### Stuying at [BSZ e.o.Plauen](http://www.bsz-eoplauen.de/3/aktuell/start_news.php)
 
+------------------------
+
+[![Korak's github stats](https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korak-997&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 --------------------------------------------------------
 ### 📫 How to reach me:
@@ -31,6 +36,7 @@ My name is Korak , love to be called Dani.
 
 * #### [Twitter](https://twitter.com/Dani60579343)
 * #### [Instagram](https://www.instagram.com/danikorak997/?r=nametag)
+
 
 
 
