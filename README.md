@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ------------------------
-https://forthebadge.com/images/badges/powered-by-coffee.svg  https://forthebadge.com/images/badges/powered-by-electricity.svg 
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/powered-by-electricity.svg)](https://forthebadge.com) 
 -------------------------
 # HI :)
 
 ## Welcome to my Github Account . 
 
 My name is Korak , love to be called Dani.
-Every project here is https://forthebadge.com/images/badges/built-with-love.svg
+Every project here is [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 --------------------------------------------
 #### Working at [ComCard GmbH](https://www.comcard.de/)
