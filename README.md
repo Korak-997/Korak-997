@@ -22,7 +22,7 @@ My name is Korak , love to be called Dani.
 
 --------------------------------------------
 #### Working at [ComCard GmbH](https://www.comcard.de/)
-#### Stuying at [BSZ e.o.Plauen](http://www.bsz-eoplauen.de/3/aktuell/start_news.php)
+#### Studying at [BSZ e.o.Plauen](http://www.bsz-eoplauen.de/3/aktuell/start_news.php)
 
 ------------------------
 
