@@ -27,6 +27,11 @@ Every project here is [![forthebadge](https://forthebadge.com/images/badges/buil
 #### Working at [ComCard GmbH](https://www.comcard.de/)
 #### Studying at [BSZ e.o.Plauen](http://www.bsz-eoplauen.de/3/aktuell/start_news.php)
 
+### 📫 How to reach me:
+
+
+* #### [Twitter](https://twitter.com/Dani60579343)
+* #### [Instagram](https://www.instagram.com/danikorak997/?r=nametag)
 ------------------------
 
 [![Korak's github stats](https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
@@ -34,11 +39,7 @@ Every project here is [![forthebadge](https://forthebadge.com/images/badges/buil
 
 
 --------------------------------------------------------
-### 📫 How to reach me:
 
-
-* #### [Twitter](https://twitter.com/Dani60579343)
-* #### [Instagram](https://www.instagram.com/danikorak997/?r=nametag)
 
 
 
