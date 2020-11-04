@@ -14,11 +14,14 @@ Here are some ideas to get you started:
 -->
 
 ------------------------
+https://forthebadge.com/images/badges/powered-by-coffee.svg  https://forthebadge.com/images/badges/powered-by-electricity.svg 
+-------------------------
 # HI :)
 
 ## Welcome to my Github Account . 
 
 My name is Korak , love to be called Dani.
+Every project here is https://forthebadge.com/images/badges/built-with-love.svg
 
 --------------------------------------------
 #### Working at [ComCard GmbH](https://www.comcard.de/)
