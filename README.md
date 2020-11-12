@@ -24,8 +24,7 @@ My name is Korak , love to be called Dani.
 # Every project here is [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
 --------------------------------------------
-#### Working at [ComCard GmbH](https://www.comcard.de/)
-#### Studying at [BSZ e.o.Plauen](http://www.bsz-eoplauen.de/3/aktuell/start_news.php)
+#### Apprentice as Fullstack Developer at [ComCard GmbH](https://www.comcard.de/)
 
 ### 📫 How to reach me:
 
