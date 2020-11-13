@@ -37,7 +37,7 @@ My name is Korak , love to be called Dani.
 
 ---------------------------------------------------
 
-[![koraks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danito997&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![koraks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danito997&theme=darcula&layout=compact&custom_title=I_am_working_on:)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------
 
