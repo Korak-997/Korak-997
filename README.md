@@ -33,11 +33,11 @@ My name is Korak , love to be called Dani.
 * #### [Instagram](https://www.instagram.com/danikorak997/?r=nametag)
 ------------------------
 
-[![Korak's github stats](https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Korak's github stats](https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true&theme=darcula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---------------------------------------------------
 
-[![koraks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danito997&theme=darcula&layout=compact&custom_title=I_am_working_on:)](https://github.com/anuraghazra/github-readme-stats)
+[![koraks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danito997&theme=darcula&layout=compact&custom_title=I am working on:)](https://github.com/anuraghazra/github-readme-stats)
 
 --------------------------------------------------
 
@@ -46,7 +46,9 @@ My name is Korak , love to be called Dani.
 
 
 --------------------------------------------------------
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true&theme=darcula&layout=compact" />
+</a>
 
 
 
