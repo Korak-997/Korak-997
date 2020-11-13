@@ -34,7 +34,14 @@ My name is Korak , love to be called Dani.
 ------------------------
 
 [![Korak's github stats](https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+---------------------------------------------------
+
 [![koraks's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danito997&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+
+--------------------------------------------------
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Korak-997&show_icons=true&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
 
 
