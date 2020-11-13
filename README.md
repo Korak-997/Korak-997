@@ -53,7 +53,7 @@ My name is Korak , love to be called Dani.
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Danito997&theme=darcula&layout=compact&custom_title=I am working on:" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korak-997&show_icons=true&theme=darcula&layout=compact />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Korak-997&show_icons=true&theme=darcula&layout=compact" />
 </a>
 
 
