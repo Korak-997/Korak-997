@@ -29,8 +29,8 @@ My name is Korak , love to be called Dani.
 ### 📫 How to reach me:
 
 
-* #### [Twitter](https://twitter.com/Dani60579343)
-* #### [Instagram](https://www.instagram.com/danikorak997/?r=nametag)
+* #### [<img src="https://img.shields.io/badge/<handle>%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>](https://twitter.com/Dani60579343)
+* #### [<img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>](https://www.instagram.com/danikorak997/?r=nametag)
 ------------------------
 
 [![Korak's github stats](https://github-readme-stats.vercel.app/api?username=Korak-997&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
