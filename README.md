@@ -16,11 +16,8 @@ Here are some ideas to get you started:
 ### I am an Apprentice as Fullstack Developer at [ComCard GmbH](https://www.comcard.de/)
 ### Also a fulltime Self-taught Developer
 
-### 🌱 I’m currently learning  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 
 -------------------------------
-
-🔭 I’m currently working on creating **My Portfolio**
 
 📫 How to reach me: 
  * [Twitter](https://twitter.com/Dani60579343)
