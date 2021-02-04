@@ -13,10 +13,6 @@ Here are some ideas to get you started:
 -->
 
 # HI :)
-### an Apprentice as Fullstack Developer at [ComCard GmbH](https://www.comcard.de/)
-
-
-
 -------------------------------
 
 📫 How to reach me: 
