@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 📫 How to reach me: 
  * [Twitter](https://twitter.com/Dani60579343)
  * [Instagram](https://instagram.com/korak997)
- * [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+ * [https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 
 ------------------------------
 
