@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -------------------------------
 
 📫 How to reach me: 
- * [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/Dani60579343)
- * [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://instagram.com/korak997)
- * [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+ [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/Dani60579343)
+ [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://instagram.com/korak997)
+ [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 ------------------------------
 
 ### My Skills :
