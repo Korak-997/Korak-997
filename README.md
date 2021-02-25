@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 # HI :)
 
 i am a Full Stack Developer Currently working as an Apprentice.
-Also i do create content and publish videos on [YOUTUBE](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) to help as many people as i can reach :)
+Also i do create content on [YOUTUBE](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) to help as many people as i can reach :)
 It is just something i like to spend the little free time i have with :)
 
 ----------------------------------------
