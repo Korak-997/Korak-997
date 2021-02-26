@@ -25,16 +25,15 @@ It is just something i like to spend the little free time i have with :)
 * Improving my skills as a Developer
 * Reaching out to more people and grow my [YOUTUBE channel](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) so i can help more people :)
 
--------------------------------
-
 ⚡ Fun fact: Once i forgot my own Birthday :p
 
 👯 I’m looking to collaborate on any project that may help someone else :)
----------------------------------
+
 📫 How to reach me: 
  [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/Dani60579343)
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://instagram.com/korak997)
  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+ 
  
 ------------------------------
 
