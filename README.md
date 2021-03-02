@@ -34,7 +34,7 @@ It is just something i like to spend the little free time i have with :)
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://instagram.com/korak997)
  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
  
- **[CODE WARS maybe ?](https://www.codewars.com/users/Korak-997)**
+ **[<img src="https://www.codewars.com/users/Korak-997/badges/large"/><img>](https://www.codewars.com/users/Korak-997)**
 ------------------------------
 
 ### My Skills :
