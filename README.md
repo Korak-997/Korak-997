@@ -21,7 +21,6 @@ It is just something i like to spend the little free time i have with :)
 ----------------------------------------
 #### 🔭 I’m currently working on :
 
-* Creating better content for the small [YOUTUBE channel](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) i have.
 * Improving my skills as a Developer
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
