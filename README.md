@@ -22,6 +22,7 @@ It is just something i like to spend the little free time i have with :)
 #### 🔭 I’m currently working on :
 
 * Improving my skills as a Developer
+* [KurDev](https://github.com/Korak-997/KurDev) a blog website made with **Jekyll** to provide **Kurdish Resources**   
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
