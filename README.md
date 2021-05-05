@@ -21,7 +21,9 @@ It is just something i like to spend the little free time i have with :)
 ----------------------------------------
 #### 🔭 I’m currently working on :
 
-* Improving my skills as a Developer  
+* Improving my skills as a Developer
+* Stackoverflow like website in Kurdish
+  To provide more help for my lovely people in my country 
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
