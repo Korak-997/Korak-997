@@ -23,7 +23,7 @@ It is just something i like to spend the little free time i have with :)
 
 * Improving my skills as a Developer
 * Blog website in Kurdish
-  To provide more and better resources in **Kurdish** for my lovely people in my country ![kurdish flaf](https://github.com/Korak-997/Korak-997/blob/master/Screenshot%20from%202021-05-05%2009-44-05.png)
+  To provide more and better resources in **Kurdish** for my lovely people in my country **Kurdistan**
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
