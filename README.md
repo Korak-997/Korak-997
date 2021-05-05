@@ -23,7 +23,7 @@ It is just something i like to spend the little free time i have with :)
 
 * Improving my skills as a Developer
 * Stackoverflow like website in Kurdish
-  To provide more help for my lovely people in my country ![kurdish flaf](https://github.com/Korak-997/Korak-997/blob/master/Screenshot%20from%202021-05-05%2009-44-05.png)
+  To provide more help for my lovely people in my country ![kurdish flaf](https://github.com/Korak-997/Korak-997/blob/master/Screenshot%20from%202021-05-05%2009-44-05.png | width=40)
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
