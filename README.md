@@ -19,6 +19,9 @@ Also i do create content on [YOUTUBE](https://www.youtube.com/channel/UC9j6pieJx
 It is just something i like to spend the little free time i have with :)
 
 ----------------------------------------
+[![trophy](https://github-profile-trophy.vercel.app/?username=korak-997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+--------------------------------------
 #### 🔭 I’m currently working on :
 
 * Improving my skills as a Developer
