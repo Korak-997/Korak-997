@@ -22,11 +22,6 @@ It is just something i like to spend the little free time i have with :)
 [![trophy](https://github-profile-trophy.vercel.app/?username=korak-997&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 --------------------------------------
-#### 🔭 I’m currently working on :
-
-* Improving my skills as a Developer
-* Blog website in Kurdish
-  To provide more and better resources in **Kurdish** for my lovely people in my country **Kurdistan**
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
