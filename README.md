@@ -19,6 +19,8 @@ Also i do create content on [YOUTUBE](https://www.youtube.com/channel/UC9j6pieJx
 It is just something i like to spend the little free time i have with :)
 
 --------------------------------------
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=korak-997&theme=highcontrast&hide_border=true&fire=DD2727&sideLabels=DDA727)](https://git.io/streak-stats)
+---------------------------------
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
