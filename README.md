@@ -18,9 +18,6 @@ i am a Full Stack Developer Currently working as an Apprentice.
 Also i do create content on [YOUTUBE](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) to help as many people as i can reach :)
 It is just something i like to spend the little free time i have with :)
 
-----------------------------------------
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)]
-
 --------------------------------------
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
