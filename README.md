@@ -29,7 +29,7 @@ Here are some ideas to get you started:
  [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://instagram.com/korak997)
  [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
  
-### Support me on :
+### Sponser me on :
 * [PayPal](https://www.paypal.me/kuranikorak97) 
 * [BuyMeCoffee](https://www.buymeacoffee.com/korak)
 * [Ko_Fi](https://ko-fi.com/korak_kurani)
