@@ -25,10 +25,9 @@ Here are some ideas to get you started:
 #### 👯 I’m looking to collaborate on any project as long as i have enough time and knowledge for it 🥰
 
 #### Find me on: 
- [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><img>](https://twitter.com/Dani60579343)
- [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/><img>](https://instagram.com/korak997)
- [<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/><img>](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
- 
+* [Instagram](https://instagram.com/korak997)
+* [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+* [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
 ### Sponser me on :
 * [PayPal](https://www.paypal.me/kuranikorak97) 
 * [BuyMeCoffee](https://www.buymeacoffee.com/korak)
