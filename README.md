@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 #### ⚡ Fun fact: Once i forgot my own Birthday :p
 
-#### 👯 I’m looking to collaborate on any project as long as i have enough time and knowledge for it 🥰
+#### 👯 I’m looking to collaborate on any project, HIT ME UP AND LET'S SEE WHAT WE CAN DO  🥰
 
 #### Find me on: 
 * [Instagram](https://instagram.com/korak997)
