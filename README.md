@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 * [Instagram](https://instagram.com/korak997)
 * [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 * [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
-### Sponser me on :
-* [PayPal](https://www.paypal.me/kuranikorak97) 
-* [BuyMeCoffee](https://www.buymeacoffee.com/korak)
-* [Ko_Fi](https://ko-fi.com/korak_kurani)
+
+[![Korak's GitHub stats](https://github-readme-stats.vercel.app/api?username=korak-997)](https://github.com/korak-997?tab=repositories)
