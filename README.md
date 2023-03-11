@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 * [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 * [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
 
-[![Korak's GitHub stats](https://github-readme-stats.vercel.app/api?username=korak-997)](https://github.com/korak-997?tab=repositories)
+[![Korak's GitHub stats](https://github-readme-stats.vercel.app/api?username=korak-997&show_icons=true&theme=dark)](https://github.com/korak-997?tab=repositories)
