@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 * [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 * [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
 
-[![Korak's GitHub stats](https://github-readme-stats.vercel.app/api?username=korak-997&show_icons=true&theme=dark)](https://github.com/korak-997?tab=repositories)
+[![How i spent my time 🙂](https://github-readme-stats.vercel.app/api?username=korak-997&show_icons=true&theme=dark)](https://github.com/korak-997?tab=repositories)
+[![Ways i speak 😝 ](https://github-readme-stats.vercel.app/api/top-langs/?username=korak-997&langs_count=8&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/korak-997?tab=repositories))
