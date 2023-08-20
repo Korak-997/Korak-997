@@ -24,21 +24,26 @@ Here are some ideas to get you started:
 
 #### 👯 I’m looking to collaborate on any project, HIT ME UP AND LET'S SEE WHAT WE CAN DO  🥰
 
-#### Find me on: 
-* [Instagram](https://instagram.com/korak997)
-* [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
-* [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
+
+<p align="center">
+  * [Instagram](https://instagram.com/korak997)
+  * [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+  * [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
+</p>
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=vue"/>
+ ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=github_dark)
 
 </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=korak-997&theme=github_dark)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=korak-997&theme=github_dark)
 
 
 
 
 
-[![How i spent my time 🙂](https://github-readme-stats.vercel.app/api?username=korak-997&show_icons=true&theme=dark)](https://github.com/korak-997?tab=repositories)
-[![Ways i speak 😝 ](https://github-readme-stats.vercel.app/api/top-langs/?username=korak-997&langs_count=8&theme=dark)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/korak-997?tab=repositories))
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=korak-997&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=korak-997&theme=github_dark&utcOffset=8)
