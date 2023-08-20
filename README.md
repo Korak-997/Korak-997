@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ZainabAmjidAwan&theme=vue"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=vue"/>
 
 </p>
 
