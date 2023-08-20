@@ -24,12 +24,13 @@ Here are some ideas to get you started:
 
 #### 👯 I’m looking to collaborate on any project, HIT ME UP AND LET'S SEE WHAT WE CAN DO  🥰
 
+### Find me on 
 
-<p align="center">
-  * [Instagram](https://instagram.com/korak997)
-  * [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
-  * [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
-</p>
+
+* [Instagram](https://instagram.com/korak997)
+* [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+* [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani)
+
 
 <p align="center">
 
