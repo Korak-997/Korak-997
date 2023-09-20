@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 * [My Portfolio](https://www.korak-kurani.com/)
 
 
-<p align="center">
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=github_dark)
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=korak-997&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=korak-997&theme=github_dark)
