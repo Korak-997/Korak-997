@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 # HI :)
 
-* Fullstack Dev
+* Fullstack Dev, Data Proccessor
 * Part-time [YOUTUBER](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
 * Totaly enjoy Coding no matter how long 😝
 * Always trying to help others 🙂
