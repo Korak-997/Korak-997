@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 ### Find me on 
 
 
-[Instagram](https://instagram.com/korak997)  [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani) [My Portfolio](https://www.korak-kurani.com/) [linkedIn](https://de.linkedin.com/in/kurani-korak-94351b235)
+[Instagram](https://instagram.com/korak997)  [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani) [My Portfolio](https://www.korak-kurani.com/) [linkedIn](https://linkedin.com/in/korak-kurani-94351b235)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=github_dark)
 
