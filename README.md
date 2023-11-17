@@ -1,6 +1,6 @@
 # Whatsup !! 👋
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/korak-997/korak-997/blob/master/devcard.svg" width="250" alt="Korak Kurani's Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/korak-997/korak-997/blob/master/devcard.svg" width="250" alt="Korak Kurani's Dev Card"/></a>
 
 - Fullstack Developer & Data Processor at [Sinc Novation](https://www.sincnovation.com/)
 
