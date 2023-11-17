@@ -1,33 +1,25 @@
-<!--
-**Korak-997/Korak-997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Whatsup !! 👋
 
-Here are some ideas to get you started:
+<a href="https://app.daily.dev/korakkurani"><img align="right" src="https://api.daily.dev/devcards/108be4962d6e40eab2d27bcab9daf343.png?r=sz9" width="250" alt="Korak Kurani's Dev Card"/></a>
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Fullstack Developer & Data Processor at [Sinc Novation](https://www.sincnovation.com/)
 
-# HI :)
+- Part-time [YOUTUBER](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
+- Totaly enjoy Coding no matter how long 😝
+- Always trying to help others 🙂
 
-* Fullstack Dev, Data Proccessor
-* Part-time [YOUTUBER](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg)
-* Totaly enjoy Coding no matter how long 😝
-* Always trying to help others 🙂
----------------------------------
-
-⚡ Fun fact: Once i forgot my own Birthday :p
-
-👯 I’m looking to collaborate on any project, HIT ME UP AND LET'S SEE WHAT WE CAN DO  🥰
-
-### Find me on 
-
-
-[Instagram](https://instagram.com/korak997)  [Youtube](https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg) [CodeGrepper](https://www.codegrepper.com/profile/korak-kurani) [My Portfolio](https://www.korak-kurani.com/) [linkedIn](https://linkedin.com/in/korak-kurani-94351b235)
+<a href="https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg" target="_blank">
+    <img
+      src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://linkedin.com/in/korak-kurani-94351b235" target="_blank">
+    <img
+      src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=korak-997&theme=github_dark)
 
@@ -36,3 +28,4 @@ Here are some ideas to get you started:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=korak-997&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=korak-997&theme=github_dark&utcOffset=8)
+![Metrics](https://metrics.lecoq.io/Korak-997?template=classic&habits=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&pagespeed=false&pagespeed.url=www.korak-kurani.com&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FBerlin)
