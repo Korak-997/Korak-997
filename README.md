@@ -20,5 +20,3 @@
       alt="LinkedIn"
     />
   </a>
-  
-![Metrics](https://metrics.lecoq.io/Korak-997?template=classic&habits=1&pagespeed=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=chartist&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&pagespeed=false&pagespeed.url=www.korak-kurani.com&pagespeed.detailed=false&pagespeed.screenshot=false&pagespeed.pwa=false&config.timezone=Europe%2FBerlin)
