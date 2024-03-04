@@ -3,7 +3,7 @@
 <div style="display:flex; flex-wrap:wrap; width:90%;justify-content:space-between; align-items:center;">
   <a href="https://app.daily.dev/DailyDevTips"><img align="right" src="https://github.com/korak-997/korak-997/blob/master/devcard.svg" width="250" alt="Korak Kurani's Dev Card"/></a>
   <ul style="margin: 2rem 0;">
-    <li>Fullstack Developer & Data Processor at <a href="https://www.sincnovation.com/" target="_blank">Sinc Novation</a></li>
+    <li>Fullstack Developer </li>
     <li>Part-time <a href="https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg" target="_blank">YOUTUBER</a></li>
     <li>Totaly enjoy Coding no matter how long 😝</li>
     <li>Always trying to help others 🙂</li>
