@@ -7,12 +7,13 @@
     <li>Part-time <a href="https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg" target="_blank">YOUTUBER</a></li>
     <li>Totaly enjoy Coding no matter how long 😝</li>
     <li>Always trying to help others 🙂</li>
+    <li>Currently participating in [IBM Full Stack Software Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer) </li>
   </ul>
 </div>
 <a href="https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg" target="_blank">
     <img
       src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
-      alt="LinkedIn"
+      alt="Youtube"
     />
   </a>
   <a href="https://linkedin.com/in/korak-kurani-94351b235" target="_blank">
@@ -21,7 +22,6 @@
       alt="LinkedIn"
     />
   </a>
-
 ![Korak's GitHub stats](https://github-readme-stats.vercel.app/api?username=korak-997&show_icons=true&theme=transparent)
 [![GitHub Streak](https://streak-stats.demolab.com?user=korak-997&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=korak-997&theme=github-compact&hide_border=true)
