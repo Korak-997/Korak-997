@@ -7,7 +7,6 @@
     <li>Part-time <a href="https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg" target="_blank">YOUTUBER</a></li>
     <li>Totaly enjoy Coding no matter how long 😝</li>
     <li>Always trying to help others 🙂</li>
-    <li>Currently participating in <a href="https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer" target="_blank">IBM Full Stack Software Developer Professional Certificate</a> </li>
   </ul>
 </div>
 <a href="https://www.youtube.com/channel/UC9j6pieJxlXmpq0k7kV1VDg" target="_blank">
