@@ -10,7 +10,7 @@
 ## 🔮 About Me
 🌍 **Full-stack Developer** based in Berlin, Germany
 
-<a href="https://app.daily.dev/korakkurani"><img src="./devcard.png" width="356" alt="Korak's Dev Card"/></a>
+<a href="https://app.daily.dev/korakkurani"><img src="https://api.daily.dev/devcards/v2/aCi5TpFP41hPWj9x2Wp5J.png?type=default&r=hv2" width="356" alt="Korak Kurani's Dev Card"/></a>
 
 
 
