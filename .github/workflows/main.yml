@@ -19,6 +19,6 @@ jobs:
     steps:
       - name: devcard
         uses: dailydotdev/action-devcard@3.2.0
-         with:
+        with:
           user_id: ${{ secrets.USER_ID }}
           commit_message: "chore: update ${filename}"
