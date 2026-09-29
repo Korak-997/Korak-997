@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-labelledby="t d">
+  <title id="t">Korak Kurani</title>
+  <desc id="d">Team Lead and AI platform architect. Oracom Intelligence, Nishan Systems, Berlin.</desc>
+  <line x1="0" y1="8" x2="800" y2="8" stroke="#30363D" stroke-width="1"/>
+  <text x="8" y="52" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="18" fill="#F0A03C">$ whoami</text>
+  <rect x="104" y="37" width="10" height="18" fill="#F0A03C"/>
+  <text x="6" y="128" font-family="Georgia, 'Times New Roman', serif" font-size="68" font-weight="700" fill="#F0F6FC">Korak Kurani</text>
+  <text x="8" y="168" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#9DA7B3">Team Lead &amp; AI platform architect</text>
+  <text x="8" y="198" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="24" fill="#9DA7B3">Oracom Intelligence · Nishan Systems · Berlin</text>
+  <line x1="0" y1="212" x2="800" y2="212" stroke="#30363D" stroke-width="1"/>
+</svg>
