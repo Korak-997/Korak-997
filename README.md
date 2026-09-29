@@ -22,7 +22,7 @@ I care about systems thinking, developer experience, and teams that don't burn o
 
 ## What I've built
 
-I joined Oracom when it was a call center. I was a principal architect and hands-on builder of its AI platform, which is in its pre-sales phase.
+I joined Oracom when it was a call center. I was a principal architect and hands-on builder of its AI platform.
 
 - **Agent flow builder.** Defines how the AI handles specific situations. Built, then refactored.
 - **Device delivery pipeline.** Intake, registration, connection and remote start for on-site AI assistant devices. Major refactor.
