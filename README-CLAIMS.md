@@ -1,8 +1,9 @@
 # README claims map
 
 Every sentence in `README.md` and the source it rests on. Source IDs match `CLAIMS-LEDGER.md` in the
-portfolio repository (F1–F11 fact sheet, U2/U3 owner confirmations, E1 private evidence pack that is
-never quoted). Updated 2026-10-26.
+portfolio repository: F1–F11 fact sheet; S2 public GitHub repos (agemon, qrgen); U2 and U3 owner
+confirmations; P1 private engineering records and E1 private evidence pack, both reviewed by Korak
+and never quoted. Updated 2026-10-26.
 
 ## Banner (`assets/banner-*.svg`)
 
