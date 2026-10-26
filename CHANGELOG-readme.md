@@ -1,5 +1,18 @@
 # README rewrite: changelog
 
+## 2026-10-26: evidence update
+
+- Heading now carries the current title; the summary covers real-time AI, TypeScript and Nuxt,
+  platform engineering, and leadership.
+- Badges cut to TypeScript, Nuxt, NestJS, PostgreSQL, AWS, and AI; the four-row badge table is gone.
+- "What I've built" replaced by links to the case studies on korak-kurani.com, so the claims live in
+  one place with their boundaries.
+- "I lead five developers" corrected to an IT team of five team members (not all developers).
+- Banner title changed from "AI platform architect" to "Senior Fullstack Developer".
+- Stale `TODO(verify)` comments removed.
+
+## Earlier rewrite
+
 Branch: `readme-rewrite`
 
 ## Removed, and why
